@@ -1,0 +1,55 @@
+{
+	"Collezione": [
+		{
+			"IdProdotto": "MSI",
+			"Computer": "Computer desktop",
+			"CategoriaSoftware": "Windows10",
+			"Traffic": "0",
+			"Soprannome": "Very Best Screens",
+			"MisuraSchermo": 4.2,
+			"PesoKili": "1KG",
+			"Descrizione": "Notebook Basic 15 with 2,80 GHz quad core, 15\" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro",
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"DimUnit": "cm",
+			"inMagazzino": "23",
+			"DeliveryTime": "12",
+			"a": "12",
+			"b": "35",
+			"c": "30",
+			"d": "45"
+			
+		},
+			
+		{	
+			"IdProdotto": "Linux",
+			"Computer": "Computer Desktop",
+			"CategoriaSoftware": "Linux",
+			"Traffic": "3",
+			"Soprannome": "Top Screeen",
+			"MisuraSchermo": 3.5,
+			"PesoKili": "1KG",
+			"Descrizione": "Notebook stjztrjhth 2,80 GHz quad core",
+			"UoM": "PC",
+			"CurrencyCode": "EUR",
+			"DimUnit": "cm",
+			"inMagazzino": "23",
+			"DeliveryTime": "12",
+			"a": "12",
+			"b": "35",
+			"c": "30",
+			"d": "45"
+		
+		
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	]
+}
